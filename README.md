@@ -9,3 +9,4 @@ I'd advice anyone that is going to use this to make sure that you fully understa
 ```bash
 git clone https://github.com/Jiebss/Port-Statistics-Monitoring-Script.git
 ```
+- Make sure that you have SNMP extension enabled in your PHP config.
