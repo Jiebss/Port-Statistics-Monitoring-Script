@@ -6,6 +6,6 @@ I'd advice anyone that is going to use this to make sure that you fully understa
 - https://www.networkmanagementsoftware.com/snmp-tutorial-part-2-rounding-out-the-basics/
 
 ## Quick Installation
-'''bash
+```bash
 git clone https://github.com/Jiebss/Port-Statistics-Monitoring-Script.git
-'''
+```
